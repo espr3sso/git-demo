@@ -1,11 +1,9 @@
-const add = (x, y) => x + y;
+const addition = (a, b) => a + b;
 
-const subtract = (x, y) => x - y;
+const subtraction = (a, b) => a - b;
 
 const multiply = (x, y) => x * y;
 
 const divide = (x, y) => x / y;
 
-const square = (x) => x * x;
-
-const cube = (x) => x * x * x;
+const power = (x, y) => x ^ y;
