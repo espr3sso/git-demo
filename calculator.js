@@ -7,3 +7,5 @@ const multiply = (x, y) => x * y;
 const divide = (x, y) => x / y;
 
 const square = (x) => x * x;
+
+const cube = (x) => x * x * x;
