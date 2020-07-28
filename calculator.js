@@ -1,6 +1,6 @@
-const add = (x, y) => x + y;
+const addition = (a, b) => a + b;
 
-const subtract = (x, y) => x - y;
+const subtraction = (a, b) => a - b;
 
 const divide = (x, y) => x / y;
 
